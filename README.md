@@ -1,0 +1,3 @@
+# CSE574-Handwriting-Comparison-Problem
+In this project, we studied how to apply machine learning to solve the handwriting comparison task in forensics. Our objective was to ﬁnd similarity between the handwritten samples of the known and the questioned writer by using linear regression, logistic regression and neural network solutions. We devised this as a problem of linear regression where we map an input vector x to a real-valued scalar target y(x,w). Experiments on various hyper-parameters such as learning rate, number of basis function, regularization term, dropout, number of hidden layers, were performed for their eﬀect on the accuracy of the program.The best accuracy was achieved using neural networks.
+
